@@ -1,5 +1,5 @@
 <!-- add the logo -->
-<img src="WeMaAd_logo- high resolution cropped.png" alt="WeMaAd logo"/>
+<img src="WeMaAd_logo- high resolution.png" alt="WeMaAd logo"/>
 
 WemaAd, we are a leading Web solution agency that specializes in creating and maintaining high quality websites, web applications, branding, marketing, and other services. We are proud of our team of highly skilled professionals who are well versed in the latest web technologies who are dedicated to providing the best possible service and value to our clients.
 
