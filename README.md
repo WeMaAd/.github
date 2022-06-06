@@ -1,2 +1,0 @@
-# .github
-Organization profile
