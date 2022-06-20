@@ -31,7 +31,7 @@
 - 🌱 In WemaAd we are working on helping our clients to increase their sales by creating outstanding websites and web applications that will help them to reach their goals and objectives. We also support our client's presence by creating a strong brand image that reflects the company’s values and cores. We improve our clients’ competitive advantage in the market by providing them with a complete marketing plan. 
 - 📫 How to reach Us: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-WeMaAd-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/wemaad/) [![Instagram Badge](https://img.shields.io/badge/-WeMaAd-red?style=flat&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/eng-abdullah2016) [![Twitter Badge](https://img.shields.io/badge/-WeMaAd-blue?style=flat&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/eng-abdullah2016)
 
-<!-- ---
+---
 
 ### 🛠 &nbsp;Languages and Tools we use:
 
@@ -57,7 +57,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>&nbsp;  
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCart_logo.svg" title="OpenCart" **alt="OpenCart" width="80" height="40"/>&nbsp;
-</p> -->
+</p>
 
 <!-- ---
 
