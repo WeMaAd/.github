@@ -5,13 +5,13 @@
   <img src="WeMaAd_logo- high resolution.png" alt="WeMaAd logo" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/company/wemaad/">
+  <a href="https://www.linkedin.com/company/wemaad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/wemaad.llc/">
+  <a href="https://www.instagram.com/wemaad.llc/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/WemaadL">
+  <a href="https://twitter.com/WemaadL" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -59,16 +59,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCart_logo.svg" title="OpenCart" **alt="OpenCart" width="80" height="40"/>&nbsp;
 </p>
 
-<!-- ---
+---
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WeMaAd&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dark-Developer93&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dark-Developer93&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Developer93&count_private=true&show_icons=true&theme=dark)](https://github.com/Dark-Developer93/github-readme-stats)
+[![WeMaAd's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeMaAd&count_private=true&show_icons=true&theme=dark)](https://github.com/Dark-Developer93/github-readme-stats) -->
 
 GitHub Daily Streak Stats  |  GitHub Detailed info
 :-------------------------:|:-------------------------:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dark-Developer93&theme=gotham&hide_border=true)](https://git.io/streak-stats)  |  [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Developer93&count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeMaAd&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
