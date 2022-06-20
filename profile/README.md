@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src=".github/profile/main/WeMaAd_logo- high resolution.png" alt="WeMaAd logo" width="500"/>
+  <img src="WeMaAd_logo- high resolution.png" alt="WeMaAd logo" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/company/wemaad/">
