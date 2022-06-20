@@ -1,8 +1,5 @@
-<!-- add the logo -->
-
-
 <div id="header" align="center">
-  <img src="WeMaAd_logo- high resolution.png" alt="WeMaAd logo" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/42237442/174637452-243bb888-c1f4-4813-ad67-6c6fdd7f3fc8.png" style="background-color:white;" alt="WeMaAd logo" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/company/wemaad/" target="_blank">
@@ -18,12 +15,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=WeMaAd&style=flat-square&color=blue" alt="Number of people viewed the profile"/>
 </div>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1 align="center">Welcome to WeMaAd<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+  <img src="https://user-images.githubusercontent.com/42237442/174637813-db2d926a-3b64-4c23-b359-f27ec07e084f.png" alt="WeMaAd logo"/>
 </div>
-
----
 
 ### :computer: &nbsp;About Us :
 
