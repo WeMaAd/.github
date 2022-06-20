@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=WeMaAd&style=flat-square&color=blue" alt="Number of people viewed the profile"/>
 </div>
 <div align="center">
-  <h1 align="center">Welcome to WeMaAd<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+  <h1 align="center">Hello from WeMaAd<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
   <img src="https://user-images.githubusercontent.com/42237442/174637813-db2d926a-3b64-4c23-b359-f27ec07e084f.png" alt="WeMaAd logo"/>
 </div>
 
