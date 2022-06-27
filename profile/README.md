@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/42237442/174637452-243bb888-c1f4-4813-ad67-6c6fdd7f3fc8.png" style="background-color:white;" alt="WeMaAd logo" width="100"/>
+  <img src="https://user-images.githubusercontent.com/42237442/175992416-de841067-813b-4d15-8979-7ac79d641373.svg" style="background-color:white;" alt="WeMaAd logo" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/company/wemaad/" target="_blank">
