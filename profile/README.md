@@ -54,4 +54,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCart_logo.svg" title="OpenCart" **alt="OpenCart" width="80" height="40"/>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true&langs_count=10&hide=svelte,css)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wemaad&layout=compact&theme=gotham&hide_border=true&langs_count=10&hide=svelte,css)](https://github.com/anuraghazra/github-readme-stats) -->
